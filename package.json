@@ -1,0 +1,26 @@
+{
+  "name": "react-google-chart",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefangab95/react-google-chart.git"
+  },
+  "description": "Google Charts Wrapper in React",
+  "main": "./src/index.jsx",
+  "author": "Stefan-Gabriel Muscalu <stefan.gabriel.muscalu@gmail.com> (http://my.corneroftheinternet.rocks/)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.29",
+    "babel-core": "^5.8.21",
+    "babel-eslint": "^3.1.30",
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.10.5",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "browser-sync": "^2.11.1"
+  }
+}
